@@ -1,0 +1,16 @@
+{
+  "name": "testimonials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "npx sass src/styles/scss:src/styles",
+    "scss:watch": "npx sass --watch src/styles/scss:src/styles"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.32.8"
+  }
+}
